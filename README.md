@@ -12,4 +12,4 @@ https://ourworldindata.org/covid-deaths
 
 ## Visualization
 [Covid Dashboard](https://public.tableau.com/app/profile/alexandre.dessoliers/viz/CovidDashboard_16320028683440/Dashboard1)
-![CovidDashboard](https://github.com/adessoliers/CovidSQLProject/blob/main/Visualizations/Covid%20Dashboard.png?raw=true)
+![CovidDashboard](https://github.com/adessoliers/CovidSQLProject/blob/main/Visualizations/CovidDashboard.png?raw=true)
