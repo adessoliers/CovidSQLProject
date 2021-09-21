@@ -6,6 +6,7 @@ This training project consists of querying through Covid Dataset and creating vi
 * [Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (Developer Edition)
 * [Tableau](https://public.tableau.com/en-us/s/) (Public Edition)
 * Microsoft Excel
+* Gitbash
 
 ## DataSource
 https://ourworldindata.org/covid-deaths
