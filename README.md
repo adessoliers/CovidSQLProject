@@ -3,5 +3,5 @@ This training project consists of querying through Covid Dataset and creating vi
 
 # Technologies
 * [Microsoft SQL Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
-* asdasd
+* [Microsoft SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (Developer Edition)
 * asdasd
