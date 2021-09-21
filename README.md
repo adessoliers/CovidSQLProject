@@ -9,3 +9,7 @@ This training project consists of querying through Covid Dataset and creating vi
 
 ## Setup
 Data Source: https://ourworldindata.org/covid-deaths
+
+## Visualization
+[Covid Dashboard](https://public.tableau.com/app/profile/alexandre.dessoliers/viz/CovidDashboard_16320028683440/Dashboard1)
+![CovidDashboard](https://public.tableau.com/views/CovidDashboard_16320028683440/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
