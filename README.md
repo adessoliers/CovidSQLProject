@@ -7,8 +7,8 @@ This training project consists of querying through Covid Dataset and creating vi
 * [Tableau](https://public.tableau.com/en-us/s/) (Public Edition)
 * Microsoft Excel
 
-## Setup
-Data Source: https://ourworldindata.org/covid-deaths
+## DataSource
+https://ourworldindata.org/covid-deaths
 
 ## Visualization
 [Covid Dashboard](https://public.tableau.com/app/profile/alexandre.dessoliers/viz/CovidDashboard_16320028683440/Dashboard1)
